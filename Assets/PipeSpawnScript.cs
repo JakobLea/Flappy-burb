@@ -16,6 +16,7 @@ public class PipeSpawnScript : MonoBehaviour
         spawnPipe();
     }
 
+    //Sjekker alltid
     // Update is called once per frame
     void Update()
     {
