@@ -16,7 +16,7 @@ public class PipeSpawnScript : MonoBehaviour
         spawnPipe();
     }
 
-    // Update is called once per frame
+    // Update is called once per frame test
     void Update()
     {
         if (timer < spawnRate)
